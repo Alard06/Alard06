@@ -6,6 +6,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alard06&theme=apprentice)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alard06&theme=apprentice)
+
 <!--
 **Alard06/Alard06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
