@@ -4,11 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alard06&theme=apprentice)
-  <div display='flex'>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alard06&theme=apprentice)
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alard06&theme=apprentice&utcOffset=8)
-  </div>
 </div>
 
 <!--
