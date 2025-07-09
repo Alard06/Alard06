@@ -6,9 +6,8 @@ I'm a passionate developer with experience in building web applications. I enjoy
 
 - **Python** 
 - **Django** 
-- **Django REST Framework (DRF)** 
+- **Django REST Framework** 
 - **JavaScript** 
-- **React** 
 - **Git** 
 - **Docker** 
 
